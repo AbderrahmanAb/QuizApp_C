@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        //*****
         tvRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
